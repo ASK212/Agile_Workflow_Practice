@@ -1,7 +1,7 @@
-# The Article:
-https://www.ibm.com/topics/software-development
+# The article
+[IBM: What is Software Development](https://www.ibm.com/topics/software-development)
 
-# Why this article / What's interesting about this article?
+## Why this article / What's interesting about this article?
 I came across this article, simply searching for the most relevant article I could find to software development.
 While I originally intended to find a more "interesting" article, this one intrigued me since it was not what I first thought of when I thought of software development.
 When I think about software development, the first thing that comes to my mind is programming and programming languages.
